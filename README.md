@@ -1,8 +1,8 @@
-# MERN STACK REACT REDUX THUNK CRUD APP
+# MERN STACK REACT REDUX THUNK CRUD APP WITH FUNCTIONAL COMPONENT
 
 ### Clone Project
 
-       $ git clone https://github.com/shubhamns/mern-stack-react-redux-thunk-crud-app.git
+       $ git clone https://github.com/shubhamns/mern-stack-react-redux-thunk-crud-app-with-functional-component.git
 
 #### 1. install reactjs
 
